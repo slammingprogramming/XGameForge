@@ -1,0 +1,79 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio Code files
+.vscode/
+
+# Rider files
+.idea/
+*.sln.iml
+
+# User-specific files
+*.userprefs
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+*.nuspec
+
+# NCrunch
+_ncrunch_
+
+# Visual Studio 2019
+.vs2019/
+
+# Visual Studio 2022
+.vs2022/
+
+# Local history for Visual Studio
+.localhistory/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Rider config files
+*.riderconfig
+
+# Build configuration
+*.sln.cache
+*.sln.ide
+*.sln.pdb
+*.pdb
+*.ilk
+*.idb
+
+# Coverage Results
+*.coverage
+*.coveragexml
